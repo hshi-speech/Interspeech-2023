@@ -1,7 +1,7 @@
-## This is the repo. for segmental multi-resolution frequency information refining (segFreIR)
+## This is the repo. for Segmental Multi-Resolution Frequency information refining (SegMRF)
 
 It concludes three model descriptions:
-- demucs (baseline)
-- segFreIR-R (refining again)
-- segFreIR-F (multi-resolution refined information fusion)
+- DEMUCS (baseline)
+- DEMUCS-MRE (proposed in ICASSP 2023)
+- SegMRF
 
